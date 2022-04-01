@@ -6,7 +6,7 @@
     "pluginType": "JS",
     "actions": [],
     "archivedActions": [],
-    "body": "export default {\n\tmyVar1: [],\n\tmyVar2: {},\n\tmyFun1: () => {\n\t\t//write code he\n\t},\n\tmyFun2: async () => {\n\t\t//use async-await or promi\n\t}\n\t//appsmith\n}",
+    "body": "export default {\n\tmyVar1: [],\n\tmyVar2: {},\n\tmyFun1: () => {\n\t\t//write code here\n\t},\n\tmyFun2: async () => {\n\t\t//use async-await or promises\n\t\t//appsi\n\t}\n}",
     "variables": [
       {
         "name": "myVar1",
@@ -20,5 +20,5 @@
   },
   "id": "Page2_testingJS",
   "deleted": false,
-  "gitSyncId": "62468fc597dde1526a12fbc2_6246917497dde1526a12fc60"
+  "gitSyncId": "62468e3f97dde1526a12fb82_62468e6697dde1526a12fb91"
 }
