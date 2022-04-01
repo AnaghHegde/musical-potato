@@ -1,12 +1,12 @@
 {
   "unpublishedCollection": {
-    "name": "testingJS1",
+    "name": "testingJS1Copy1",
     "pageId": "Page2",
     "pluginId": "js-plugin",
     "pluginType": "JS",
     "actions": [],
     "archivedActions": [],
-    "body": "export default {\n\tmyVar1: [],\n\tmyVar2: {},\n\tmyFun1: () => {\n\t\t//write code here\n\t},\n\tmyFun2: async () => {\n\t\t//use async-await or promises\n\t\t//appsith\n\t}\n}",
+    "body": "export default {\n\tmyVar1: [],\n\tmyVar2: {},\n\tmyFun1: () => {\n\t\t//write code he\n\t},\n\tmyFun2: async () => {\n\t\t//use async-await or promi\n\t}\n\t//appsmithvbv n  \n}",
     "variables": [
       {
         "name": "myVar1",
@@ -18,7 +18,7 @@
       }
     ]
   },
-  "id": "Page2_testingJS1",
+  "id": "Page2_testingJS1Copy1",
   "deleted": false,
-  "gitSyncId": "62468e3f97dde1526a12fb82_62468e6697dde1526a12fb91"
+  "gitSyncId": "6246945e97dde1526a12fcbd_624694e597dde1526a12fcf5"
 }
