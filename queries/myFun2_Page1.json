@@ -3,7 +3,7 @@
   "pluginId": "js-plugin",
   "unpublishedAction": {
     "name": "myFun2",
-    "fullyQualifiedName": "testingJSCopy.myFun2",
+    "fullyQualifiedName": "testingJSCopy1.myFun2",
     "datasource": {
       "name": "UNUSED_DATASOURCE",
       "pluginId": "js-plugin",
@@ -14,12 +14,12 @@
       "userPermissions": []
     },
     "pageId": "Page1",
-    "collectionId": "Page1_testingJSCopy",
+    "collectionId": "Page1_testingJSCopy1",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
-      "body": "async () => {\n\t\t//use async-await or promises\n\t}",
+      "body": "async () => {\n\t\t//use async-await or promises\n\t\t//appsmith\n\t\t//appsmith\n\t}",
       "jsArguments": [],
       "isAsync": true
     },
@@ -34,14 +34,14 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "async () => {\n\t\t//use async-await or promises\n\t}"
+      "async () => {\n\t\t//use async-await or promises\n\t\t//appsmith\n\t\t//appsmith\n\t}"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": []
   },
-  "id": "Page1_testingJSCopy.myFun2",
+  "id": "Page1_testingJSCopy1.myFun2",
   "deleted": false,
-  "gitSyncId": "62468fc597dde1526a12fbc2_62468fc597dde1526a12fbcd"
+  "gitSyncId": "6246919397dde1526a12fc62_624691df97dde1526a12fc79"
 }

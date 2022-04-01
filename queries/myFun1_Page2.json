@@ -3,7 +3,7 @@
   "pluginId": "js-plugin",
   "unpublishedAction": {
     "name": "myFun1",
-    "fullyQualifiedName": "testingJSCopy.myFun1",
+    "fullyQualifiedName": "testingJS1.myFun1",
     "datasource": {
       "name": "UNUSED_DATASOURCE",
       "pluginId": "js-plugin",
@@ -14,12 +14,12 @@
       "userPermissions": []
     },
     "pageId": "Page2",
-    "collectionId": "Page2_testingJSCopy",
+    "collectionId": "Page2_testingJS1",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
-      "body": "() => {\n\t\t//write code he\n\t}",
+      "body": "() => {\n\t\t//write code here\n\t}",
       "jsArguments": [],
       "isAsync": false
     },
@@ -34,14 +34,14 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "() => {\n\t\t//write code he\n\t}"
+      "() => {\n\t\t//write code here\n\t}"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": []
   },
-  "id": "Page2_testingJSCopy.myFun1",
+  "id": "Page2_testingJS1.myFun1",
   "deleted": false,
-  "gitSyncId": "62468fc597dde1526a12fbc2_6246917497dde1526a12fc5c"
+  "gitSyncId": "62468fc597dde1526a12fbc2_62468fc597dde1526a12fbd9"
 }

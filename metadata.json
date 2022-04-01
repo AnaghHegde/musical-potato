@@ -25,23 +25,23 @@
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
-    "Page2_testingJS.myFun1": {
-      "unpublishedUserSetOnLoad": false,
-      "publishedUserSetOnLoad": false
-    },
     "Page3_testingJS.myFun1": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
-    "Page2_testingJS.myFun2": {
+    "Page2_testingJS1.myFun2": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
-    "Page2_testingJSCopy.myFun1": {
+    "Page2_testingJS1.myFun1": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
-    "Page2_testingJSCopy.myFun2": {
+    "Page1_testingJSCopy1.myFun2": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "Page1_testingJSCopy1.myFun1": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     }
