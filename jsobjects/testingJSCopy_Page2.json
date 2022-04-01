@@ -1,7 +1,7 @@
 {
   "unpublishedCollection": {
-    "name": "testingJS",
-    "pageId": "Page3",
+    "name": "testingJSCopy",
+    "pageId": "Page2",
     "pluginId": "js-plugin",
     "pluginType": "JS",
     "actions": [],
@@ -18,7 +18,7 @@
       }
     ]
   },
-  "id": "Page3_testingJS",
+  "id": "Page2_testingJSCopy",
   "deleted": false,
-  "gitSyncId": "62468e8d97dde1526a12fb93_62468f0a97dde1526a12fbad"
+  "gitSyncId": "62468fc597dde1526a12fbc2_6246917497dde1526a12fc60"
 }
