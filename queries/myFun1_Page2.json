@@ -3,7 +3,7 @@
   "pluginId": "js-plugin",
   "unpublishedAction": {
     "name": "myFun1",
-    "fullyQualifiedName": "testingJS1Copy1.myFun1",
+    "fullyQualifiedName": "testingJS.myFun1",
     "datasource": {
       "name": "UNUSED_DATASOURCE",
       "pluginId": "js-plugin",
@@ -14,7 +14,7 @@
       "userPermissions": []
     },
     "pageId": "Page2",
-    "collectionId": "Page2_testingJS1Copy1",
+    "collectionId": "Page2_testingJS",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -41,7 +41,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "Page2_testingJS1Copy1.myFun1",
+  "id": "Page2_testingJS.myFun1",
   "deleted": false,
-  "gitSyncId": "6246945e97dde1526a12fcbd_624694e597dde1526a12fcf0"
+  "gitSyncId": "62468fc597dde1526a12fbc2_62468fc597dde1526a12fbd9"
 }
