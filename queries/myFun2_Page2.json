@@ -19,7 +19,7 @@
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
-      "body": "async () => {\n\t\t//use async-await or promises\n\t\t//appsmith\n\t\t//appsmith\n\t}",
+      "body": "async () => {\n\t\t//use async-await or promises\n\t\t//appsith\n\t\t//appsmith\n\t}",
       "jsArguments": [],
       "isAsync": true
     },
@@ -34,7 +34,7 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "async () => {\n\t\t//use async-await or promises\n\t\t//appsmith\n\t\t//appsmith\n\t}"
+      "async () => {\n\t\t//use async-await or promises\n\t\t//appsith\n\t\t//appsmith\n\t}"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
